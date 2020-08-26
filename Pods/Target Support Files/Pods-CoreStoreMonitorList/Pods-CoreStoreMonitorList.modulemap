@@ -1,0 +1,6 @@
+framework module Pods_CoreStoreMonitorList {
+  umbrella header "Pods-CoreStoreMonitorList-umbrella.h"
+
+  export *
+  module * { export * }
+}

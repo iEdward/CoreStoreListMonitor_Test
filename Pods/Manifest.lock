@@ -1,0 +1,16 @@
+PODS:
+  - CoreStore (7.2.0)
+
+DEPENDENCIES:
+  - CoreStore
+
+SPEC REPOS:
+  trunk:
+    - CoreStore
+
+SPEC CHECKSUMS:
+  CoreStore: f1de78d47773c2be076aee0f4d636cf582dc3b47
+
+PODFILE CHECKSUM: facc7efd3d2619854ba4e359acad3899fb363bc0
+
+COCOAPODS: 1.9.3
